@@ -24,7 +24,7 @@ Energy Informatics | Multi-Agent Systems | Python
 
 ## 🛠️ Technical Skills
 
-* Languages: Python (AI/ML), Java, C++, JavaScript (React), SQL, PHP.
+* Languages: Python (AI/ML), C#, Java, C/C++, JavaScript (React), SQL, PHP, CSS, HTML.
 * AI/ML Tools: TensorFlow, Scikit-learn, NLP, NumPy, Pandas.
 * Cloud & Backend: FastAPI, Google Cloud AI, MySQL, Oracle APEX.
 * Certifications: Prompt Engineering (Microsoft), Generative AI (Google Cloud).
