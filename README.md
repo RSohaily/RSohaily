@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # 👨‍💻 Rukhsar Sohaily
 ### Computer Engineering Student @ Karabük University | [span_4](start_span)[span_5](start_span)AI & Industrial Systems[span_4](end_span)[span_5](end_span)
 
